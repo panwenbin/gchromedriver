@@ -100,7 +100,7 @@ func main() {
 	//as.KeyUp("v" + selenium.ControlKey)
 	//as.KeyDown(selenium.ControlKey + "v")
 	//as.KeyUp("v" + selenium.ControlKey)
-	//fmt.Println(wd.PerformActions(as))
+	//fmt.Println(wd.PerformKeyActions(as))
 	//fmt.Println(wd.ReleaseActions())
 	as := chrome.NewPointerActionSequences()
 	as.MouseDoubleClick()
