@@ -1,4 +1,4 @@
-module webdriver
+module github.com/panwenbin/gchromedriver
 
 go 1.12
 

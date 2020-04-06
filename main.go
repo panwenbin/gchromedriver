@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
+	"github.com/panwenbin/gchromedriver/chrome"
 	"github.com/tebeka/selenium"
 	"log"
-	"webdriver/chrome"
 )
 
 func their() {
