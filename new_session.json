@@ -1,0 +1,29 @@
+{
+  "value": {
+    "capabilities": {
+      "acceptInsecureCerts": false,
+      "browserName": "chrome",
+      "browserVersion": "80.0.3987.163",
+      "chrome": {
+        "chromedriverVersion": "80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882})",
+        "userDataDir": "C:\\Users\\admin\\AppData\\Local\\Temp\\scoped_dir8396_2017507756"
+      },
+      "goog:chromeOptions": {
+        "debuggerAddress": "localhost:54193"
+      },
+      "networkConnectionEnabled": false,
+      "pageLoadStrategy": "normal",
+      "platformName": "windows",
+      "proxy": {},
+      "setWindowRect": true,
+      "strictFileInteractability": false,
+      " timeouts": {
+        "implicit": 0,
+        "pageLoad": 300000,
+        "script": 30000
+      },
+      "unhandledPromptBehavior": "dismiss and notify"
+    },
+    "sessionId": "8ecf825f4eb3fcc0c1f79d0df8f3ef81"
+  }
+}

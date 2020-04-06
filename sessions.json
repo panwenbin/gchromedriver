@@ -1,0 +1,114 @@
+{
+  "sessionId": "",
+  "status": 0,
+  "value": [
+    {
+      "capabilities": {
+        "acceptInsecureCerts": false,
+        "browserName": "chrome",
+        "browserVersion": "80.0.3987.163",
+        "chrome": {
+          "chromedriverVersion": "80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882})",
+          "user DataDir": "C:\\Users\\admin\\AppData\\Local\\Temp\\scoped_dir8396_436360505"
+        },
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:51739"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFi leInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify"
+      },
+      "id": "e909731d02db6c395e40d63ba49979d6"
+    },
+    {
+      "capabilities": {
+        "acceptInsecureCerts": false,
+        "browserName": "chrome",
+        "browserVersion": "80.0 .3987.163",
+        "chrome": {
+          "chromedriverVersion": "80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882})",
+          "userDataDir": "C:\\Users\\admin\\AppData\\Local\\Temp\\scoped_dir8396_1338136412"
+        },
+        "goog:chromeOptions": {
+          "debuggerAddress": "localho st:54318"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and no tify"
+      },
+      "id": "d49f8011f3d811ca3c4208cf81793c0c"
+    },
+    {
+      "capabilities": {
+        "acceptInsecureCerts": false,
+        "browserName": "chrome",
+        "browserVersion": "80.0.3987.163",
+        "chrome": {
+          "chromedriverVersion": "80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{# 882})",
+          "userDataDir": "C:\\Users\\admin\\AppData\\Local\\Temp\\scoped_dir8396_1844059024"
+        },
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:54291"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify"
+      },
+      "id": "1b4c90ba1e6220b76e8a289c06732c0b"
+    },
+    {
+      "capabilities": {
+        "acceptInsecureCerts": false,
+        "browserName": "chrome",
+        "browserV ersion": "80.0.3987.163",
+        "chrome": {
+          "chromedriverVersion": "80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882})",
+          "userDataDir": "C:\\Users\\admin\\AppData\\Local\\Temp\\scoped_dir8396_2017507756"
+        },
+        "goog:chromeOptions": {
+          "debuggerAddr ess": "localhost:54193"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify"
+      },
+      "id": "8ecf825f4eb3fcc0c1f79d0df8f3ef81"
+    }
+  ]
+}
